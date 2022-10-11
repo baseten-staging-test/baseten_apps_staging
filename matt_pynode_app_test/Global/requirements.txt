@@ -1,0 +1,5 @@
+# Use this file to provide the names of the Python packages you want to use in your worklets.
+# Example:
+# some_package==1.2.3
+# -------
+wikipedia
