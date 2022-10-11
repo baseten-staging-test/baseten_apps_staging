@@ -1,0 +1,14 @@
+# Worklet
+name: Worklet1
+id: rBL7y4q
+entryNodeId: 2qRGK2B
+graphNodes:
+- nodeId: 2qRGK2B
+
+---
+# Node
+name: Untitled code block
+id: 2qRGK2B
+type: RemotePy
+filepath: main.py
+function: passthrough
