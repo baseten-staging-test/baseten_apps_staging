@@ -2,6 +2,9 @@
 name: View1
 id: ZBAX5wq
 componentsJson: '{"meta": {"name": "__ROOT", "isFrameHidden": false}, "refs": {},
-  "vars": {}, "props": {}, "params": {}, "states": {}, "actions": {}, "version": "3",
-  "children": {}, "handlers": [], "urlParams": {}, "datasources": {}, "resolvedData":
-  {}, "valueSuppliers": {}}'
+  "vars": {}, "props": {}, "params": {}, "actions": {}, "version": "3", "children":
+  {"text1": {"type": "text", "chrome": {"border": false, "header": false, "headerText":
+  "chrome-V1Irpqs"}, "location": {"h": 8, "w": 24, "x": 4, "y": 3}, "eventHandlers":
+  [], "propSuppliers": {"data": "prop-CM77N7U"}, "contextualActions": {}}}, "handlers":
+  [], "urlParams": {}, "datasources": {}, "valueSuppliers": {"prop-CM77N7U": {"refs":
+  [], "value": null}, "chrome-V1Irpqs": {"refs": [], "value": null}}}'
