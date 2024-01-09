@@ -1,0 +1,14 @@
+# View
+name: View1
+id: pP89Xqn
+componentsJson: '{"meta": {"name": "__ROOT", "isFrameHidden": false}, "refs": {"0pI-WMO":
+  {"type": "worklets", "workletId": "Xq6AOAP", "instanceId": "worklet-pyH3eAN"}},
+  "vars": {}, "props": {}, "params": {"param-21FuCZE": {"map": {"x": {"refs": [],
+  "value": "53421"}}, "refs": []}}, "actions": {}, "version": "3", "children": {"json_viewer1":
+  {"type": "json_viewer", "chrome": {"border": false, "header": false, "headerText":
+  "chrome-uwMiCk-"}, "location": {"h": 15, "w": 20, "x": 4, "y": 5}, "eventHandlers":
+  [], "propSuppliers": {"data": "prop-OhpH6W1"}, "contextualActions": {}}}, "handlers":
+  [], "urlParams": {}, "datasources": {"worklet-pyH3eAN": {"id": "worklet-pyH3eAN",
+  "type": "worklet", "paramRef": "param-21FuCZE", "workletId": "Xq6AOAP"}}, "valueSuppliers":
+  {"prop-OhpH6W1": {"refs": ["0pI-WMO"], "value": "{{t::0pI-WMO}}"}, "chrome-uwMiCk-":
+  {"refs": [], "value": null}}}'

@@ -1,0 +1,13 @@
+# Worklet
+name: Worklet1
+id: Xq6AOAP
+entryNodeId: yqeybLq
+graphNodes:
+- nodeId: yqeybLq
+
+---
+# Node
+name: Invoke Model
+id: yqeybLq
+type: InvokeModel
+modelId: zq8x4y3o

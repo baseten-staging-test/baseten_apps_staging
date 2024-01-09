@@ -1,0 +1,4 @@
+# Use this file to provide the names of the Debian packages you want to use in your worklets.
+# Example:
+# ffmpeg
+# -------
